@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b06c1c2-a0c1-43b8-a633-1ae73f898f06" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Aufgabe4_1810653831.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aufgabe5_1810653831.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -22,22 +22,22 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="3" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="3" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="4142" />
+          <entry key="java" value="8235" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="4142" />
+          <entry key="JAVA" value="8235" />
         </counts>
       </usages-collector>
     </session>
@@ -71,11 +71,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Aufgabe4_1810653831.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+            <state relative-caret-position="153">
+              <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Aufgabe5_1810653831.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -99,6 +108,7 @@
         <option value="$PROJECT_DIR$/src/Aufgabe2_PKZ.java" />
         <option value="$PROJECT_DIR$/src/Aufgabe3_1810653831.java" />
         <option value="$PROJECT_DIR$/src/Aufgabe4_1810653831.java" />
+        <option value="$PROJECT_DIR$/src/Aufgabe5_1810653831.java" />
       </list>
     </option>
   </component>
@@ -143,7 +153,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543254320434" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543263169212" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Aufgabe4_1810653831">
+  <component name="RunManager" selected="Application.Aufgabe5_1810653831">
     <configuration name="Aufgabe2_PKZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Aufgabe2_PKZ" />
       <module name="1810653831_UE2" />
@@ -179,6 +189,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Aufgabe5_1810653831" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aufgabe5_1810653831" />
+      <module name="1810653831_UE2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="1810653831_UE2" />
@@ -194,9 +211,11 @@
       <item itemvalue="Application.Aufgabe2_PKZ" />
       <item itemvalue="Application.Aufgabe3_1810653831" />
       <item itemvalue="Application.Aufgabe4_1810653831" />
+      <item itemvalue="Application.Aufgabe5_1810653831" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Aufgabe5_1810653831" />
         <item itemvalue="Application.Aufgabe4_1810653831" />
         <item itemvalue="Application.Aufgabe3_1810653831" />
         <item itemvalue="Application.Aufgabe2_PKZ" />
@@ -214,12 +233,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543235729141</updated>
-      <workItem from="1543235734124" duration="8426000" />
+      <workItem from="1543235734124" duration="16508000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8426000" />
+    <option name="totallyTimeSpent" value="16508000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="698" extended-state="6" />
@@ -239,7 +258,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.13580246" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.119929455" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39858907" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -285,8 +304,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Aufgabe4_1810653831.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+        <state relative-caret-position="153">
+          <caret line="27" column="13" lean-forward="true" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Aufgabe5_1810653831.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
